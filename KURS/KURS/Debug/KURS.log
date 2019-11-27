@@ -1,0 +1,19 @@
+﻿  KURS.cpp
+c:\games\kurs\kurs\kurs.cpp(376): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+c:\games\kurs\kurs\kurs.cpp(380): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+c:\games\kurs\kurs\kurs.cpp(384): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+c:\games\kurs\kurs\kurs.cpp(388): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+c:\games\kurs\kurs\kurs.cpp(393): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+c:\games\kurs\kurs\kurs.cpp(400): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+c:\games\kurs\kurs\kurs.cpp(532): warning C4805: ==: небезопасное смешение типа "bool" и типа "const double" в операции
+c:\games\kurs\kurs\kurs.cpp(1124): warning C4018: <: несоответствие типов со знаком и без знака
+c:\games\kurs\kurs\kurs.cpp(1134): warning C4018: <: несоответствие типов со знаком и без знака
+c:\games\kurs\kurs\kurs.cpp(1142): warning C4018: <: несоответствие типов со знаком и без знака
+c:\games\kurs\kurs\kurs.cpp(1151): warning C4018: <: несоответствие типов со знаком и без знака
+c:\games\kurs\kurs\kurs.cpp(1160): warning C4018: <: несоответствие типов со знаком и без знака
+c:\games\kurs\kurs\kurs.cpp(1191): warning C4018: <: несоответствие типов со знаком и без знака
+c:\games\kurs\kurs\kurs.cpp(1201): warning C4018: <: несоответствие типов со знаком и без знака
+c:\games\kurs\kurs\kurs.cpp(1209): warning C4018: <: несоответствие типов со знаком и без знака
+c:\games\kurs\kurs\kurs.cpp(1218): warning C4018: <: несоответствие типов со знаком и без знака
+c:\games\kurs\kurs\kurs.cpp(1226): warning C4018: <: несоответствие типов со знаком и без знака
+  KURS.vcxproj -> C:\Games\KURS\Debug\KURS.exe
